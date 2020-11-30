@@ -20,7 +20,7 @@ def fix(a):
     e = e.replace('-수-', '쾅').replace('바부', '쾅').replace('긋','왘').replace('ㅇ댱', '쾅')
     e = e.replace('ㄴㅁㅇ', '쾅').replace('밥부', '쾅').replace('과부하', '쾅')
     e = e.replace('das', '왘').replace('knalb', '왘').replace('버스', '왘').replace('ⓡⓔⓑⓡⓤⓢ','왘')
-    e = e.replace(':desktop:','쾅').replace('obab', '왘').replace('#h', '왘')
+    e = e.replace(':desktop:','쾅').replace('obab', '왘').replace('#h', '왘').replace(':regional_indicator_r: :regional_indicator_e: :regional_indicator_b: :regional_indicator_r: :regional_indicator_u: :regional_indicator_s:desktop:died:','왘쾅왘')
     e = e.replace('potksed','왘').replace('zhkd','쾅').replace('blank', '쾅')
     e = e.replace("ㅇㅁㄴ", '왘').replace(':regional_indicator_r: :regional_indicator_e: :regional_indicator_b: :regional_indicator_r: :regional_indicator_u: :regional_indicator_s:', '왘')
     e = e.replace(':regional_indicator_s: :regional_indicator_u: :regional_indicator_r: :regional_indicator_b: :regional_indicator_e: :regional_indicator_r:', '쾅')
