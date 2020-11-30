@@ -24,7 +24,7 @@ def fix(a):
     e = e.replace("ㅇㅁㄴ", '왘').replace(':regional_indicator_r: :regional_indicator_e: :regional_indicator_b: :regional_indicator_r: :regional_indicator_u: :regional_indicator_s:', '왘')
     e = e.replace('desktop', '쾅').replace('드보키','쾅').replace('rebus', '쾅')
     e = e.replace('!rank','쾅').replace('재천','쾅').replace('키보드', '왘')
-    e = e.replace('콩', '쾅')
+    e = e.replace('콩', '쾅').replace('마우스', '왘').replace('컴퓨터', '왘')
 
     e = e.replace(' ', '').replace(":", "").replace('!', '')
     return(e)
