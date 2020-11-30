@@ -19,7 +19,7 @@ def fix(a):
     e = e.replace('-수-', '쾅').replace('바부', '쾅').replace('긋','왘')
     e = e.replace('ㄴㅁㅇ', '쾅').replace('밥부', '쾅').replace('과부하', '쾅')
     e = e.replace('das', '왘').replace('knalb', '왘').replace('버스', '왘')
-    e = e.replace(':desktop:','쾅').replace('obab', '왘')
+    e = e.replace(':desktop:','쾅').replace('obab', '왘').replace('#h', '왘')
     e = e.replace('potksed','왘').replace('zhkd','쾅').replace('blank', '쾅')
 
 
