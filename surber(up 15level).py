@@ -3,7 +3,7 @@ def fix(a):
     e = a.replace('버수', '왘').replace('died','왘').replace(':keyboard:','왘').replace('· – – 　– 　– – · 　· · · ·', '왘')
     e = e.replace('숩어','쾅').replace('옼','왘').replace('dkhz', '왘').replace('obabrebrus','왘').replace('컴퓨터실', '쾅')
     e = e.replace('sad', '쾅').replace('수버핑', '쾅').replace('수버역할핑','쾅').replace('␚', '쾅')#.replace('숩숩', '쾅')
-    e = e.replace(':died:','왘').replace('내부 헤에로 과부하!','쾅').replace('#수버-주기는-방', '쾅')
+    e = e.replace(':died:','왘').replace('내부 헤에로 과부하!','쾅').replace('#수버-주기는-방', '쾅').replace('스윽술버스윽', '쾅쾅쾅')
     e = e.replace(':surber:','쾅').replace(':sad:','쾅').replace("수버", '쾅').replace('⠘⠎⠠⠍', '왘')
     e = e.replace('내부 헤에로 과부하', '쾅').replace('surber','쾅').replace('deid','쾅')
     e = e.replace('헤에헤에', '쾅쾅').replace('에헤에헤','왘왘').replace('babo', '쾅').replace('버스', '왘')
