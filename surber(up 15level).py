@@ -6,7 +6,7 @@ def fix(a):
     e = e.replace(':died:','왘').replace('내부 헤에로 과부하!','쾅').replace('#수버-주기는-방', '쾅')
     e = e.replace(':surber:','쾅').replace(':sad:','쾅').replace("수버", '쾅').replace('⠘⠎⠠⠍', '왘')
     e = e.replace('내부 헤에로 과부하', '쾅').replace('surber','쾅').replace('deid','쾅')
-    e = e.replace('헤에헤에', '쾅쾅').replace('에헤에헤','왘왘').replace('babo', '쾅')
+    e = e.replace('헤에헤에', '쾅쾅').replace('에헤에헤','왘왘').replace('babo', '쾅').replace('버스', '왘')
     e = e.replace('하부과','왘').replace('jqnt', '왘').replace('숩버', '쾅').replace('––·　····　·––　–','쾅')
     e = e.replace('rebrus', '왘').replace('헤에','쾅').replace('tnqj', '쾅').replace('ꓤꓱꓭꓤꓵꓢ','왘')
     e = e.replace('녀귣ㄱ', '쾅').replace('숩','쾅').replace('rotinom','왘').replace('––·　····　·––　–', '쾅')
