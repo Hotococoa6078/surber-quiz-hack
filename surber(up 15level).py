@@ -21,8 +21,8 @@ def fix(a):
     e = e.replace('das', '왘').replace('knalb', '왘').replace('버스', '왘')
     e = e.replace(':desktop:','쾅').replace('obab', '왘').replace('#h', '왘')
     e = e.replace('potksed','왘').replace('zhkd','쾅').replace('blank', '쾅')
-    e = e.replace("ㅇㅁㄴ", '왘')
-
+    e = e.replace("ㅇㅁㄴ", '왘').replace(':regional_indicator_r: :regional_indicator_e: :regional_indicator_b: :regional_indicator_r: :regional_indicator_u: :regional_indicator_s:', '왘')
+    e = e.replace('desktop', '쾅').replace('드보키','쾅')  
 
     e = e.replace(' ', '').replace(":", "")
     return(e)
