@@ -1,3 +1,4 @@
+from pyperclip import *
 def fix(a):
     e = a.replace('버수', '왘').replace('died','왘').replace(':keyboard:','왘')
     e = e.replace('숩어','쾅').replace('옼','왘')
@@ -15,7 +16,13 @@ def fix(a):
     e = e.replace('에헤', '왘').replace('녀ㅠㄷㄱ','왘').replace('Ｓｕｒｂｅｒ','쾅')
     e = e.replace('ㅣㅏ','왘').replace('얃ㅇ', '왘').replace('genius', '왘')
     e = e.replace('천재', '왘').replace('ㅔ', '쾅').replace('슥','쾅')
+
+
+
+    e = e.replace(' ', '').replace(":", "")
     return(e)
 while True:
     a = input(' ')
-    print(fix(a).replace(' ', '').replace(":", ""))
+    print(fix(a))
+    copy(fix(a))
+    
