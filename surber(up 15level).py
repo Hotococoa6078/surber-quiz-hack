@@ -30,6 +30,7 @@ def fix(a):
     e = e.replace('윽스', '왘').replace('스우마', '쾅').replace('⠠⠍⠘⠎','쾅')
 
     e = e.replace(' ', '').replace(":", "").replace('!', '')
+    e = e.replace('thonking~1',':thrinking~1:')
     return(e)
 while True:
     a = input(' ')
