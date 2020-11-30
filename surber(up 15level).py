@@ -1,7 +1,7 @@
 from pyperclip import *
 def fix(a):
     e = a.replace('버수', '왘').replace('died','왘').replace(':keyboard:','왘')
-    e = e.replace('숩어','쾅').replace('옼','왘').replace('dkhz', '왘')
+    e = e.replace('숩어','쾅').replace('옼','왘').replace('dkhz', '왘').replace('obabrebrus','왘')
     e = e.replace('sad', '쾅').replace('수버핑', '쾅').replace('수버역할핑','쾅')
     e = e.replace(':died:','왘').replace('내부 헤에로 과부하!','쾅')
     e = e.replace(':surber:','쾅').replace(':sad:','쾅').replace("수버", '쾅')
@@ -18,7 +18,7 @@ def fix(a):
     e = e.replace('천재', '왘').replace('ㅔ', '쾅').replace('슥','쾅')
     e = e.replace('-수-', '쾅').replace('바부', '쾅').replace('긋','왘')
     e = e.replace('ㄴㅁㅇ', '쾅').replace('밥부', '쾅').replace('과부하', '쾅')
-    e = e.replace('das', '왘').replace('knalb', '왘')
+    e = e.replace('das', '왘').replace('knalb', '왘').replace('버스', '왘')
 
 
     e = e.replace(' ', '').replace(":", "")
