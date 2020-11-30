@@ -17,7 +17,8 @@ def fix(a):
     e = e.replace('ㅣㅏ','왘').replace('얃ㅇ', '왘').replace('genius', '왘')
     e = e.replace('천재', '왘').replace('ㅔ', '쾅').replace('슥','쾅')
     e = e.replace('-수-', '쾅').replace('바부', '쾅').replace('긋','왘')
-    e = e.replace('ㄴㅁㅇ', '쾅').replace('밥부', '쾅')
+    e = e.replace('ㄴㅁㅇ', '쾅').replace('밥부', '쾅').replace('과부하', '쾅')
+    e = e
 
 
     e = e.replace(' ', '').replace(":", "")
